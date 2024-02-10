@@ -10,5 +10,7 @@
 Загрузка данных:
 Для загрузки данных используется имитация ответа от сервера в формате JSON.
 Загрузка должна производиться асинхронно через 1 сек после запуска приложения.
+
+
 Пример загружаемых данных:
 [{"city":"Moscow","charger":{"busy":true,"name":"Энергия Москвы","address":"Измайловское ш., 4А"}},{"city":"Moscow","charger":{"busy":false,"name":"Lipgart","address":"2-я Бауманская ул., 5, стр. 5"}},{"city":"Saint Petersburg","charger":{"busy":true,"name":"Станция зарядки электромобилей","address":"Большой просп. Васильевского острова, 68"}},{"city":"Moscow","charger":{"busy":false,"name":"Zevs","address":"Мясницкая ул., 13, стр. 10"}},{"city":"Saint Petersburg","charger":{"busy":false,"name":"Punkt E","address":"Малая Монетная ул., 2Г"}}]
