@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Atom</string>
+
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Show city charges</string>
+    <string name="previous">To city list</string>
+</resources>
